@@ -1,9 +1,7 @@
 # README
 
 Requirements to use this utility:
-1.Numpy
-2.Matplotlib
-3.Argparse
+Numpy | Matplotlib | Argparse
 
 Steps to run without arguments:-
 python game_of_life.py
