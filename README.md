@@ -26,10 +26,12 @@ The initial pattern constitutes the seed of the system. The first generation is 
 
 # Steps to run without arguments:-
 python game_of_life.py
+
 ![image](https://user-images.githubusercontent.com/18682285/118634926-ab5d8900-b7f0-11eb-98b2-659947a7a244.png)
 
 
 # Steps to run with arguments:-
 python game_of_life.py --grid-size 32 --interval 500 --glider
+
 ![image](https://user-images.githubusercontent.com/18682285/118635023-c6c89400-b7f0-11eb-847e-9068d3a29a82.png)
 
